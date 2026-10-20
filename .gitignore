@@ -1,0 +1,21 @@
+# Restricted data and all analysis outputs. Nothing with data leaves the Enclave.
+*.dta
+*.csv
+*.log
+*.smcl
+*.txt
+*.xlsx
+*.pdf
+
+# Manuscript drafts never go in the public repo (add the final paper on acceptance).
+*.docx
+Manuscript/
+
+# keep the output folder in the tree but empty
+!output/.gitkeep
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*~
+*.swp

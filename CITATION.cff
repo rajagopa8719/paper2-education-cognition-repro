@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the archived release and the paper."
+title: "Replication code: Education and later-life cognition in India (LASI-DAD Wave 2)"
+abstract: >-
+  Stata replication code for a survey-weighted decomposition of the
+  education and general cognition gradient through Lancet Commission
+  risk factors, in the Harmonized LASI-DAD Wave 2 sample. Restricted
+  data are not included.
+type: software
+version: 1.0.0
+date-released: "2026-10-20"
+license: MIT
+authors:
+  - family-names: Rajagopalan
+    given-names: Priya
+    orcid: "https://orcid.org/0009-0000-2577-844X"
+    affiliation: "School of Arts and Sciences, University of Pennsylvania"
+  - family-names: Wang
+    given-names: Sijiu
+    orcid: "https://orcid.org/0000-0002-6453-5149"
+    affiliation: "Tsinghua University"
+keywords:
+  - LASI-DAD
+  - cognitive aging
+  - education
+  - India
+  - Lancet Commission risk factors
+  - survey-weighted analysis
+  - Stata
+preferred-citation:
+  type: article
+  title: >-
+    Education and later-life cognition in India: a survey-weighted
+    decomposition of Lancet Commission risk factors (LASI-DAD Wave 2)
+  year: 2026
+  notes: "Manuscript under review. Update venue and DOI on acceptance."
+  authors:
+    - family-names: Rajagopalan
+      given-names: Priya
+      orcid: "https://orcid.org/0009-0000-2577-844X"
+    - family-names: Wang
+      given-names: Sijiu
+      orcid: "https://orcid.org/0000-0002-6453-5149"
